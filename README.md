@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Sushant Manhas</h1>
 <h3 align="center">A Data Science enthusiast from India</h3> <br><br>
 
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.jWIfZvVRtqOQckc9UigP8AHaFj?pid=ImgDet&rs=1">
+<img align="right" alt="Coding" width="350" src="https://th.bing.com/th/id/OIP.jWIfZvVRtqOQckc9UigP8AHaFj?pid=ImgDet&rs=1">
 - 👀 Interested in <b>Data Science and Gaming</b> <br>
 - 🌱 Currently working on <b>ML Projects</b> <br>
 - 💞️ Looking to collaborate on <b>ML based or GameDev Projects</b> <br>
